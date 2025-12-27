@@ -80,4 +80,3 @@ After cleaning, the helper column row_num was dropped as it was no longer requir
 - Data standardization
 - Handling missing and inconsistent data
 - Real world data preparation workflow
-- [Data Cleaning World_Layoffs.sql](https://github.com/user-attachments/files/24351943/Data.Cleaning.World_Layoffs.sql)
